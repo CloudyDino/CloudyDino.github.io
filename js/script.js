@@ -37,7 +37,7 @@ function addContent(contentToAdd, callback) {
 
 setTimeout(function() {
     deleteContent(function() {
-        addContent("a web developer", function() {
+        addContent("a team player", function() {
             deleteContent(function() {
                 addContent("a software engineer", function() {
                     deleteContent(function() {
